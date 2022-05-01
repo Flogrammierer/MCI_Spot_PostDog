@@ -12,13 +12,11 @@ Um Mapping Daten zu verarbeiten aber auch um Zusatzfunktionen wie zum Beispiel d
 - Welche Kamera wird verwendet ?
 - Welche Funktionen werden wie implementiert ? 
 ### Trajektorienfindung
-Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariationen wird in der Informatik allgemein als Graphentheorie bezeichnet. Während für drei Targets die Trajektorienfindung noch einfach scheint, kann diese in komplexeren Gebäuden und mehreren Zielen bereits eine Herausforderung sein. 
+Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariationen wird in der Informatik allgemein als Graphentheorie bezeichnet. Während für drei Targets die Trajektorienfindung noch einfach scheint, kann diese in komplexeren Gebäuden und mehreren Zielen bereits eine Herausforderung sein. In den Bildern ist der Unterschied zwischen guter und schlechter Trajektorienplannung zu sehen.
 
 ![Grood trajectory planning](Images/goodtraj.png)
 ![Bad trajectory planning](Images/badtraj.png)
-<p align="center">
-  Gute und schlechte Trajektorienplannung
-</p>
+
 
 ## Arbeitsaufteilung
 Die Arbeit kann nach dem aktuellen Stand wie folgt aussehen

@@ -20,6 +20,7 @@ Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariatione
 <p align="center">
   Gute und schlechte Trajektorienplannung
 </p>
+
 ## Arbeitsaufteilung
 Die Arbeit kann nach dem aktuellen Stand wie folgt aussehen
 

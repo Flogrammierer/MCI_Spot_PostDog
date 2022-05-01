@@ -13,10 +13,29 @@ Um Mapping Daten zu verarbeiten aber auch um Zusatzfunktionen wie zum Beispiel d
 - Welche Kamera wird verwendet ?
 - Welche Funktionen werden wie implementiert ? 
 ### Trajektorienfindung
-Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariationen wird in der Informatik allgemein als Graphentheorie bezeichnet.
-## Versuchsdurchführung
-Als erster Versuchs
-## Aufgabenliste
-## Versuchsdurchführung
+Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariationen wird in der Informatik allgemein als Graphentheorie bezeichnet. Während für drei Targets die Trajektorienfindung noch einfach scheint, kann diese in komplexeren Gebäuden und mehreren Zielen bereits eine Herausforderung sein. 
 ![Grood trajectory planning](Images/goodtraj.png)
 ![Bad trajectory planning](Images/badtraj.png)
+## Arbeitsaufteilung
+Die Arbeit kann nach dem aktuellen Stand wie folgt aussehen
+
+Serielle Kommunikation:
+- Ansteuerung des Spots verstehen und Testen
+- Abläufe und Funktionen von ROS verstehen
+- Benötigte Sensoren und Aktoren ansteuern bzw. Programme zu deren Ansteuerung erstellen
+- Schnittstellen Funktionen überlegen und evt. grobe Gedanken über Programm Struktur
+
+Computer Vision: 
+- Algorithmen zum Auslesen bestimmter Markierungen researchen und testen
+- Markierungen erstellen und deren Bedeutung implementieren
+
+Mapping:
+- Literatur Research Mapping und Methoden hierfür
+- Bestimmen des Sensors der für das Mapping verwendet werden soll. Grundsätzlich steht hier wsh die Wahl zwischen Lidar und 3D Cam
+- Erstellen leichter Testszenarien und Implementierung der hierfür notwendigen Algorithmen
+
+Trajektorienfindung:
+- Literatur research für Laufwegplannung bei Robotern
+- Algorithmen zum Thema Graphentheorie verstehen
+- Einfache Testszenarien auswerten und optimieren
+

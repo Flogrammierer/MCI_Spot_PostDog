@@ -18,5 +18,5 @@ Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariatione
 Als erster Versuchs
 ## Aufgabenliste
 ## Versuchsdurchführung
-[Grood trajectory planning](Images/goodtraj.png)
-[Bad trajectory planning](Images/badtraj.png)
+![Grood trajectory planning](Images/goodtraj.png)
+![Bad trajectory planning](Images/badtraj.png)

@@ -14,6 +14,7 @@ Um Mapping Daten zu verarbeiten aber auch um Zusatzfunktionen wie zum Beispiel d
 - Welche Funktionen werden wie implementiert ? 
 ### Trajektorienfindung
 Das Finden des schnellsten Weges bei einer Vielzahl von möglichen Wegvariationen wird in der Informatik allgemein als Graphentheorie bezeichnet. Während für drei Targets die Trajektorienfindung noch einfach scheint, kann diese in komplexeren Gebäuden und mehreren Zielen bereits eine Herausforderung sein. 
+
 ![Grood trajectory planning](Images/goodtraj.png)
 ![Bad trajectory planning](Images/badtraj.png)
 ## Arbeitsaufteilung
